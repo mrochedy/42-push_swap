@@ -6,6 +6,8 @@ In addition to the core sorting functionality, I also implemented the **bonus fe
 
 This **push_swap** project was designed to further develop my algorithmic thinking, my understanding of data structures, and my problem-solving skills. I hope this repository is helpful for those looking to understand **push_swap**.
 
+<img width="198" alt="125/100 grade" src="https://github.com/user-attachments/assets/708486c1-c045-40d6-ab0c-e5dc3650a50d">
+
 ## About the Project
 
 This repository presents my complete implementation of the **push_swap** project, part of the **42** curriculum. It was developed by **Maxime Rochedy**, under the login **mrochedy**. The goal of **push_swap** is to sort stacks of integers using two auxiliary stacks and a set of predefined operations, all while minimizing the number of moves, and the Turkish approach helps achieve this goal by focusing on operational efficiency.
